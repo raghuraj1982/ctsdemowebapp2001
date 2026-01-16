@@ -28,3 +28,4 @@ C:\ctsdemo2101\WebApplication11601\obj\Debug\net8.0\refint\WebApplication11601.d
 C:\ctsdemo2101\WebApplication11601\obj\Debug\net8.0\WebApplication11601.pdb
 C:\ctsdemo2101\WebApplication11601\obj\Debug\net8.0\WebApplication11601.genruntimeconfig.cache
 C:\ctsdemo2101\WebApplication11601\obj\Debug\net8.0\ref\WebApplication11601.dll
+C:\ctsdemo2101\WebApplication11601\obj\Debug\net8.0\WebApplication11601.sourcelink.json
